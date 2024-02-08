@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,openai.com  
+  - DOMAIN-SUFFIX,googleapis.com  # googleapis服务
+  - DOMAIN-SUFFIX,nnr.moe
+  - DOMAIN-SUFFIX,alist.nosee.uk # alist网盘
+  - IP-CIDR,20.89.43.13/24
